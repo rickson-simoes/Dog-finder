@@ -1,6 +1,6 @@
 # Dog-finder
 
-- Instalar o npm/yarn, apenas para fazer o download do Json-server.
+- Instalar o npm ou yarn, apenas para fazer o download do Json-server.
 
 - Abrir o cmd dentro da pasta da aplicação e executar o comando: yarn / npm install
 
@@ -14,7 +14,7 @@
 ### **Github do Json-server:** 
 [Json-Server](https://github.com/typicode/json-server "Json-Server")
 
-### Possíveis comandos para auxilio:
+### Possíveis comandos para auxilio (Npm ou Yarn):
 **Instalar JSON Server** - 
 
     npm install
