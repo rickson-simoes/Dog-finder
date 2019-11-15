@@ -31,6 +31,7 @@
 
 
 ====Iniciar JSON Server====
+
 • npm json-server --watch <nome do arquivo json>.json
 
 • yarn json-server --watch <nome do arquivo json>.json
@@ -38,7 +39,6 @@
 
 
 ====Você pode iniciar um JSON server em outras portas com a flag --port ====
-
 
 • npm json-server --watch breeds.json --port 3004
 
