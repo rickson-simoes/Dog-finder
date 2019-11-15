@@ -1,7 +1,7 @@
 # Dog-finder
 
-◘◘
-TUTORIAL
+◘◘TUTORIAL
+
 
 1 - Instalar o npm/yarn, apenas para fazer o download do Json-server.
 
@@ -14,15 +14,17 @@ TUTORIAL
 5 - Acessar pelo http://localhost:3000 ou a porta que foi estabelecida.
 
 
-◘◘
-Github do Json-server: 
+◘◘Github do Json-server:
+
 • https://github.com/typicode/json-server
 
-◘◘
-Possíveis comandos para auxilio:
+
+◘◘Possíveis comandos para auxilio:
+
 
 
 ====Instalar JSON Server====
+
 • npm install -g json-server
 
 • yarn install json-server
@@ -34,8 +36,10 @@ Possíveis comandos para auxilio:
 • yarn json-server --watch <nome do arquivo json>.json
 
 
+
 ====Você pode iniciar um JSON server em outras portas com a flag --port ====
-Exemplo:
+
+
 • npm json-server --watch breeds.json --port 3004
 
 • yarn json-server --watch breeds.json --port 3004
