@@ -12,8 +12,7 @@
 
 
 ### **Github do Json-server:** 
-[[Json-Server]][Json-server]
-
+[Json-Server](https://github.com/typicode/json-server "Json-Server")
 
 ### Possíveis comandos para auxilio:
 **Instalar JSON Server** - 
@@ -32,5 +31,3 @@
 
     npm json-server --watch breeds.json --port 3004    
     yarn json-server --watch breeds.json --port 3004
-
-[Json-server]: https://github.com/typicode/json-server "Json-server"
