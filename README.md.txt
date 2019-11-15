@@ -23,7 +23,7 @@ Possíveis comandos para auxilio:
 • npm json-server --watch <nome do arquivo json>.json
 • yarn json-server --watch <nome do arquivo json>.json
 
-====Você pode iniciar um JSON server em outras portas com a flag --port====
+====Você pode iniciar um JSON server em outras portas com a flag --port ====
 Exemplo:
 • npm json-server --watch breeds.json --port 3004
 • yarn json-server --watch breeds.json --port 3004
