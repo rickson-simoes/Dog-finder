@@ -1,5 +1,12 @@
 # Dog-finder
 
+[![Dogfinder1](https://i.imgur.com/jbFZgvC.png "Dogfinder1")](https://i.imgur.com/jbFZgvC.png "Dogfinder1")
+
+[![Dogfinder2](https://i.imgur.com/gAUkpTa.png "Dogfinder2")](https://i.imgur.com/gAUkpTa.png "Dogfinder2")
+
+
+
+
 - Instalar o npm ou yarn, apenas para fazer o download do Json-server.
 
 - Abrir o cmd dentro da pasta da aplicação e executar o comando: yarn / npm install
