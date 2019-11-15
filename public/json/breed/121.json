@@ -1,0 +1,13 @@
+{
+  "id": 121,
+  "name": "Golden Retriever",
+  "life_span": "10 - 12 years",
+  "bred_for": "Retrieving",
+  "breed_group": "Sporting",
+  "temperament": "Intelligent, Kind, Reliable, Friendly, Trustworthy, Confident",
+  "weight": { "imperial": "55 - 75 lbs", "metric": "25 - 34 kgs" },
+  "height": {
+    "imperial": "21.5 - 24 inches at the withers",
+    "metric": "55 - 61 cm at the withers"
+  }
+}

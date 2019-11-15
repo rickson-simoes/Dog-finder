@@ -1,0 +1,13 @@
+{
+  "id": 16,
+  "name": "American Staffordshire Terrier",
+  "life_span": "12 - 15 years",
+  "bred_for": "",
+  "breed_group": "Terrier",
+  "temperament": "Tenacious, Friendly, Devoted, Loyal, Attentive, Courageous",
+  "weight": { "imperial": "50 - 60 lbs", "metric": "23 - 27 kgs" },
+  "height": {
+    "imperial": "17 - 19 inches at the withers",
+    "metric": "43 - 48 cm at the withers"
+  }
+}

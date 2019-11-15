@@ -1,0 +1,12 @@
+{
+  "name": "dog_finder_ajax",
+  "version": "1.0.0",
+  "description": "Dog finder",
+  "main": "index.html",
+  "keywords": [],
+  "author": "Rickson Simões",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
+}

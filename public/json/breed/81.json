@@ -1,0 +1,13 @@
+{
+  "id": 81,
+  "name": "Chow Chow",
+  "life_span": "12 - 15 years",
+  "bred_for": "Guardian, cart pulling, hunting",
+  "breed_group": "Non-Sporting",
+  "temperament": "Aloof, Loyal, Independent, Quiet",
+  "weight": { "imperial": "40 - 70 lbs", "metric": "18 - 32 kgs" },
+  "height": {
+    "imperial": "17 - 20 inches at the withers",
+    "metric": "43 - 51 cm at the withers"
+  }
+}

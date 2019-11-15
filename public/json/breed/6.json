@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "name": "Akita",
+  "life_span": "10 - 14 years",
+  "bred_for": "Hunting bears",
+  "breed_group": "Working",
+  "temperament": "Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous",
+  "weight": { "imperial": "65 - 115 lbs", "metric": "29 - 52 kgs" },
+  "height": {
+    "imperial": "24 - 28 inches at the withers",
+    "metric": "61 - 71 cm at the withers"
+  }
+}
